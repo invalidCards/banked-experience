@@ -93,6 +93,7 @@ public enum Secondaries
 	/**
 	 * Smithing
 	 */
+	TIN_ORE(new ItemStack(ItemID.TIN_ORE, 1)),
 	COAL_ORE(new ItemStack(ItemID.COAL, 1)),
 	COAL_ORE_2(new ItemStack(ItemID.COAL, 2)),
 	COAL_ORE_3(new ItemStack(ItemID.COAL, 3)),

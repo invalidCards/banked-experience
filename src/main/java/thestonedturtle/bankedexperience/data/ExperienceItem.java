@@ -332,6 +332,7 @@ public enum ExperienceItem
 	 * Smithing
 	 */
 	// Ores
+	COPPER_ORE(ItemID.COPPER_ORE, Skill.SMITHING, "Ore"),
 	IRON_ORE(ItemID.IRON_ORE, Skill.SMITHING, "Ore"),
 	SILVER_ORE(ItemID.SILVER_ORE, Skill.SMITHING, "Ore"),
 	GOLD_ORE(ItemID.GOLD_ORE, Skill.SMITHING, "Ore"),

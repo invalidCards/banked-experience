@@ -853,6 +853,8 @@ public enum Activity
 	 * Smithing
 	 */
 	// Smelting ores (Furnace)
+	BRONZE_ORE(ItemID.BRONZE_BAR, "Bronze bar", 1, 6.5,
+		ExperienceItem.COPPER_ORE, Secondaries.TIN_ORE, new ItemStack(ItemID.BRONZE_BAR, 1)),
 	IRON_ORE(ItemID.IRON_BAR, "Iron bar", 15, 12.5,
 		ExperienceItem.IRON_ORE, null, new ItemStack(ItemID.IRON_BAR, 1)),
 	STEEL_ORE(ItemID.STEEL_BAR, "Steel bar", 30, 17.5,
